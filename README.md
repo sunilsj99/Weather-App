@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# Weather App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a weather app which is created using react and redux. it shows the weather of upcoming days by displaying using a chart.
 
-### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/sunilsj99/Weather-App.git
+> cd Weather-App
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
